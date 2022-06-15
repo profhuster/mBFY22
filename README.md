@@ -2,7 +2,7 @@
 Repository for materials I am presenting at the mini Beyond First Year physics labs 
 workshop at SUNY New Paltz on June 17, 2022. 
 Download <br />
-[Welcome and Introduction_](https://github.com/profhuster/mBFY22/blob/main/2022_mBFY-Introduction.pdf) 
+[Welcome and Introduction](https://github.com/profhuster/mBFY22/blob/main/2022_mBFY-Introduction.pdf) 
 
 # Projects
 - [Laser beam profiler](https://github.com/profhuster/mBFY22-LaserBeamProfile)
