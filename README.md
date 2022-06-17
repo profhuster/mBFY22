@@ -1,6 +1,8 @@
 # mBFY22
 Repository for materials I am presenting at the mini Beyond First Year physics labs 
 workshop at SUNY New Paltz on June 17, 2022. 
+- [Introduction PowerPoint Slides](https://github.com/profhuster/mBFY22/blob/main/mBFY22.pdf)
+
 Download these:<br />
 ## [Welcome and Introduction](https://github.com/profhuster/mBFY22/blob/main/2022_mBFY-Introduction.pdf) 
 ## [Setting Up CircuitPython](https://github.com/profhuster/mBFY22/blob/main/Setting_Up_CircuitPython_22a.pdf)
